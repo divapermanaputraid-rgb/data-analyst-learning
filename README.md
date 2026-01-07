@@ -41,6 +41,11 @@ roadmap.md            # Learning roadmap & milestones
 
 * Metric reasoning & failure analysis
 
+### Note on language:
+- Core analysis files are written in English for portfolio and professional review.
+- Notes and learning logs may be written in Indonesian as part of the learning process.
+
 ### Status
 
 This is an ***active learning repo***. Files are edited incrementally as understanding improves.
+
